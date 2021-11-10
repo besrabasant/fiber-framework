@@ -37,8 +37,8 @@ require (
 	github.com/valyala/tcplisten v1.0.0 // indirect
 	github.com/withmandala/go-log v0.1.0 // indirect
 	golang.org/x/crypto v0.0.0-20211108221036-ceb1ce70b4fa // indirect
-	golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1 // indirect
-	golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1 // indirect
+	golang.org/x/sys v0.0.0-20211109184856-51b60fd695b3 // indirect
+	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
 	golang.org/x/tools v0.0.0-20200114235610-7ae403b6b589 // indirect
 	gopkg.in/yaml.v2 v2.2.4 // indirect
 )
