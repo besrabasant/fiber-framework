@@ -7,5 +7,5 @@ import (
 
 func App() {
 	logger := log.New(os.Stderr)
-	logger.Info("Info Log from App")
+	logger.Info("New Info Log from App")
 }

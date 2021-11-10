@@ -14,8 +14,10 @@ require (
 
 require (
 	github.com/arsmn/fastgql v0.14.0
-	github.com/besrabasant/fiber-framework v0.0.0-20211110080519-79a5d8c0c40b
+	github.com/besrabasant/fiber-framework v0.0.0-20211110082052-4ba9d1fd7456
 )
+
+replace github.com/besrabasant/fiber-framework v0.0.0-20211110082052-4ba9d1fd7456 => ../../fiber-framework
 
 require (
 	github.com/andybalholm/brotli v1.0.2 // indirect
